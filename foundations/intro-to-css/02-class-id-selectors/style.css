@@ -1,0 +1,16 @@
+.odd {
+    background-color:rgb(245, 134, 134);
+    font-family:Verdana, Geneva, Tahoma, sans-serif ;
+}
+#even1 {
+    color: blue;
+    font-size: 36px;
+}
+.bigger {
+    font-size: 24px;
+}
+#even2 {
+    background-color:rgb(77, 241, 112);
+    font-size: 24px;
+    font-weight: bold;
+}
