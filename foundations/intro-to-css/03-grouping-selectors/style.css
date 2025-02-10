@@ -1,0 +1,13 @@
+.First1 {
+    background-color: black;
+    color: rgb(252, 251, 251);
+}
+
+.Second2 {
+    background-color: yellow;
+}
+
+.First1, .Second2 {
+    font-size: 28px;
+    font-family: Helvetica, 'Times New Roman', sans-serif;
+}
